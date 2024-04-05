@@ -4,7 +4,7 @@
 //
 //  Created by Auzan Lazuardi on 02/03/24.
 //
-
+//remote
 import Foundation
 import AppCore
 
